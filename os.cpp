@@ -10,7 +10,7 @@ quantum round-robin queue. Bottom level is a first come first served queue.
 
 I/O Scheduling: Each drive has its own First come first served queue.
 
-Memory: Demand paging.
+Memory: Demand paging..
 
 */
 
