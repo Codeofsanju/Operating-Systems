@@ -1,6 +1,11 @@
-## Operating-Systems 
-# Hunter CS340 Project (Speed programmed)
+## Operating-Systems C++ Project 
+# Hunter CS340 Project (Speed programmed) 
 
+#Compilation:
+g++ os.cpp -o os      Run: ./os
+
+
+# Assignment:
 You should write a program that simulates some aspects of operating systems. There is no real system programming involved. The whole simulation is based on the text inputs that the program receives from user.
  
 Scheduling: your program should use multilevel feedback queue scheduling. Top level 0 queue uses RR scheduling with a single time quantum. Level 1 queue uses RR scheduling with a double time quantum.  Lowest level 2 queue uses FCFS approach. Each process starts at the level 0 queue. Each time the process exceeds its time limit (in other words, each time the process is preempted by the q command) it goes one level lower. We do not implement any mechanics to move processes up the levels.
