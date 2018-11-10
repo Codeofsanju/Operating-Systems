@@ -2,7 +2,7 @@
 Sanjeev Sharma 
 CSCI 340 - Section 01
 
-Discroption: A program that simulates some aspects of operating systems. There is no real system programming involved. 
+Discription: A program that simulates some aspects of operating systems. There is no real system programming involved. 
 The whole simulation is based on the text inputs that the program receives from user.
 
 CPU Scheduing: 3 level Multilevel Feedback Queue. Top level is 1 time quantum round-robin queue. Middle level is 2 time 
