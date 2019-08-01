@@ -1,5 +1,5 @@
 ## Operating-Systems C++ Project 
-# Hunter CS340 Project (Speed programmed) 
+# Hunter CS340 Project 
 
 #Compilation:
 g++ os.cpp -o os      Run: ./os
